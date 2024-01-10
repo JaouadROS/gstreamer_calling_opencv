@@ -6,7 +6,7 @@ This repository contains an example of how to call OpenCV functions within a GSt
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
-- GStreamer: Make sure GStreamer and its development libraries are installed.
+- GStreamer 1.20.3: Make sure GStreamer and its development libraries are installed.
 - OpenCV: You will need OpenCV and its development libraries.
 - CMake: Required for building the project.
 - A C++ compiler: GCC, Clang, or any C++ compiler compatible with your version of GStreamer and OpenCV.
